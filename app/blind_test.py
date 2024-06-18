@@ -239,7 +239,7 @@ if 'min_index' not in st.session_state:
 
 # Initialize database
 init_db()
-image_path = "app/images/"
+image_path = "images/"
 if 'images' not in st.session_state:
     images = sorted(os.listdir(image_path))
     random.shuffle(images)

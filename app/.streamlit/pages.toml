@@ -1,5 +1,5 @@
 [[pages]]
-path = "app/home.py"
+path = "home.py"
 name = "Home"
 icon = ":house:"
 
@@ -14,26 +14,26 @@ name = "Carousel"
 icon = ":vibration_mode:"
 
 [[pages]]
-path = "app/lora_explainer.py"
+path = "lora_explainer.py"
 name = "Beyond BaseModel"
 icon = ":memo:"
 
 [[pages]]
-path = "app/conclusion.py"
+path = "conclusion.py"
 name = "Conclusion"
 icon = "🎯"
 
 [[pages]]
-path = "app/prompt.py"
+path = "prompt.py"
 name = "Prompt"
 icon = ":camera:"
 
 [[pages]]
-path = "app/appendix.py"
+path = "appendix.py"
 name = "Appendix"
 icon = "📎"
 
 [[pages]]
-path = "app/contacts.py"
+path = "contacts.py"
 name = "Contact us"
 icon = ":envelope_with_arrow:"
