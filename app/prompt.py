@@ -27,6 +27,9 @@ output_template = {
 
 # Streamlit app layout
 st.title("Prompt Generator for Fooocus v2.4.3")
+st.write("")
+st.write ('Before using the prompt page and function, please contact us (see contact page) so that we can activate the backend server first')
+st.write("")
 st.write('Follow this link: https://12bffe577853bb1d56.gradio.live/')
 
 # Input prompt from user
