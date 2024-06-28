@@ -30,11 +30,11 @@ st.markdown(
 )
 
 with st.sidebar:
-    st.image("imgs/orange_home.png", width=150)
+    st.image("app/imgs/orange_home.png", width=150)
 
 
 # Display header image and title
-st.image("imgs/orange_header.png", use_column_width="always")
+st.image("app/imgs/orange_header.png", use_column_width="always")
 st.title("Welcome to the Orange Image GenAI! :orange_heart:")
 st.markdown(horizontal_bar, True)
 
@@ -69,7 +69,7 @@ with col2:
     # """
     # )    
     if st.button("Meet the team", key="team_button"):
-        st.image("imgs/team-angel.png")
+        st.image("app/imgs/team-angel.png")
 
 # Display footer
 footer = """

@@ -30,11 +30,11 @@ st.markdown(
 )
 
 with st.sidebar:
-    st.image("imgs/orange_mail.png", width=150)
+    st.image("app/imgs/orange_mail.png", width=150)
 
 
 # Display header image and title
-st.image("imgs/orange_people.png", use_column_width="always")
+st.image("app/imgs/orange_people.png", use_column_width="always")
 st.title("Team contacts")
 st.markdown(horizontal_bar, True)
 
@@ -60,7 +60,7 @@ st.markdown(
 """
 )
 
-st.image('imgs/team.jpg', use_column_width=True)
+st.image('app/imgs/team.jpg', use_column_width=True)
 
 # Display footer
 footer = """

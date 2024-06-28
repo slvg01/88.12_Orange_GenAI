@@ -30,11 +30,11 @@ def parse_html_file(file_path):
     
     return images_data
 
-file_path = 'frontend/public/extracted/Jean/log.html'
+file_path = 'app/frontend/public/extracted/Jean/log.html'
 images_data = parse_html_file(file_path)
 
 st.markdown('## :camera: :orange[Select your Ad]')
-imageCarouselComponent = components.declare_component('image-carousel-component', path='frontend/public')
+imageCarouselComponent = components.declare_component('image-carousel-component', path='app/frontend/public')
 
 imageUrls = [img[1] for img in images_data]
 selectedImageUrl = imageCarouselComponent(imageUrls=imageUrls, height=300)
