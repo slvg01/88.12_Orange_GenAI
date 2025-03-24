@@ -19,11 +19,7 @@
 
 <br>
 
-<div align="center">
-  <a href="https://orangeblindtest.streamlit.app/">
-    <img src="resized_magician.png" alt="![CLICK THE MAGICIAN TO TRY THE APP !!!" />
-  </a>
-</div>
+
 
 ## 🔧 Installation
 
