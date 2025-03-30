@@ -21,9 +21,10 @@
 
 <div align="center">
   <a href="https://orangeblindtest.streamlit.app/">
-    <img src="resized_magician.png" alt="![CLICK THE MAGICIAN TO TRY THE APP !!!" />
+    <img src="utils/resized_magician.png" alt="CLICK THE MAGICIAN TO TRY THE APP !!!" />
   </a>
 </div>
+
 
 ## 🔧 Installation
 
@@ -51,10 +52,15 @@ To install the app scripts , follow these steps:
 
 - Note that being able to run the prompt feature in the app requires : 
     - either to contact us so that we can initialize the tech pipeline if you are using the online app,
-    - or set up yourself a collab (or other server offering GPU) environment and run Fooocus GUI from there (code for collab can be found in the collab.ipynb file). You can find full information on how to do it here : https://github.com/lllyasviel/Fooocus/tree/main 
+    - or set up yourself a collab (or other server offering GPU) environment and run Fooocus GUI from there (code for collab can be found in the utils/collab.ipynb file). You can find full information on how to do it here : https://github.com/lllyasviel/Fooocus/tree/main 
 
 
 
 
 ## 🔥 Credit
 - Special Thanks to Lyumin Zhang and supporting people for FOOOCUS open source project :  https://github.com/lllyasviel. It really helped us a lot throughout this project
+- and for course this project was done in team with my fantastic colleagues from Becode : 
+[Hazem,](https://github.com/HazemEldabaa)
+[Jean,](https://github.com/jduffy93)
+[Mark,](https://github.com/pr0fi7)
+[and Maarten !](https://github.com/MaartenKnaepen)
